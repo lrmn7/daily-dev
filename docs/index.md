@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: Lento Manickathan
+title: Home
 hide:
   - navigation
 ---

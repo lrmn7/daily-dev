@@ -1,6 +1,6 @@
 .home-container {
   padding-top: px2rem(20px);
-  background: hsla(0, 0%, 0%, 1) 99%;
+  background: url("https://res.cloudinary.com/lrmn/image/upload/v1686516030/nicole-mason-cv_fqvrbKWs-unsplash_dnk5au.jpg") center/cover;
   text-align: center;
   width: 100%;
   padding-top: 5;
@@ -38,7 +38,7 @@
     padding-top: 40px;
     transform: translateZ(-10px) scale(2);
     z-index: -3;
-    color:hsla(0, 0%, 0%, 1);
+    color: transparent;
     font-family: 'Fira Code', monospace;
 }
 /*

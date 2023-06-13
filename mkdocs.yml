@@ -1,9 +1,9 @@
-copyright: Copyright &copy; 2021 - 2023 L RMN
-site_description: Personal website of L RMN
-site_author: L RMN
-site_name: L RMN
-site_url: https://lrmn.is-a.dev/docs
-site_dir: public
+copyright: 'Copyright &copy; 2023 Made with ♥ by <a href="https://lrmn.is-a.dev/">L RMN</a>'
+site_description: 'Personal website of L RMN'
+site_author: 'L RMN'
+site_name: 'L RMN'
+site_url: 'https://lrmn.is-a.dev/docs'
+site_dir: 'public'
 
 # repository edit info
 edit_uri: edit/main/docs/
@@ -11,24 +11,28 @@ repo_name: lrmn7/docs
 repo_url: https://github.com/lrmn7/docs
 
 # Table of content
+# Table of content
 nav:
-  - Home: index.md
-  - Profile: profile.md
-  - Projects: projects.md
-  - ... | blog/*/*
-  - Links:
-    - tools.md
-    - wiki.md
-  - Art: art/index.md
+  - 🚀Home: index.md
+  - 🐵Profile: profile.md
+  - ✍🏻Blog:
+    - ... | articles/*/*
+  - 🖥️Projects:
+    - ... | projects/*/*
+  - ❤️Donate: donation.md
+
+
+
+
 
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/images/logo.png
-  favicon: assets/images/favicon.svg
+  logo: assets/images/favicon-32x32.png
+  favicon: assets/images/favicon.ico
   font:
     text: Noto Sans
-    code: Fira code
+    code: Fira Code
   palette:
     - scheme: slate
       primary: black
@@ -52,17 +56,15 @@ theme:
 plugins:
   - search
   - mermaid2
-  - git-revision-date-localized:
-      fallback_to_build_date: false
+  #- git-revision-date-localized:
+      #fallback_to_build_date: false
   - macros
   - mkdocs-jupyter:
       include_source: True
   - awesome-pages
-  - redirects:
-      redirect_maps:
-        'cv.md': 'https://media.githubusercontent.com/media/lento234/cv/main/cv.pdf'
 
 markdown_extensions:
+  - tables
   - admonition
   - pymdownx.arithmatex:
       generic: true
@@ -100,9 +102,11 @@ extra:
       link: https://id.pinterest.com/romanromannya
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@LRMN_vp
+  generator: false
+      
   analytics:
     provider: google
-    property: 
+    property: G-SDQ15H0726
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
