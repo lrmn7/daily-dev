@@ -2,372 +2,372 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://lrmn.is-a.dev/docs/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/donation/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/profile/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/How-Do-I/how-do-i-develop-my-portfolio-website-blog/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/How-Do-I/virtual-gaming-photography-taller-than-life-screenshot-art/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/arch-linux/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/benchmarking/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/blender/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/changeid/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/gateway/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/h5py-parallel/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/homelab/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/linear-regression/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/ragnarok/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/random-irrotational-flow/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/rockylinux/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/setup-jupyterhub/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/slurm/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/snapshot-backups/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/systemd-timers/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/systemd/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/archive/wifi/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/ansible-apache-mariadb/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/ansible-apache-variable/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/ansible-apache2/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/ansible-inventory/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/ansible-nginx-mariadb-jinja2/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/ansible-variable/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/apa-itu-ansible/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/devops-devsecops-cybersecurity/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/dicoding-elite/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/pengaturan-python/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/penggunaan-python/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/perbedaan-useradd-adduser/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/praktik-ansible-jinja2/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/praktik-docker-run-dengan-nginx/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/praktik-install-mysql-phpmyadmin-docker/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/praktik-install-postgres-docker/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/praktik-install-wordpress-docker/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-adhoc-command-ansible/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-ansible-loop/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-ansible-roles/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-ansible-secret/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-connect-ssh-secara-passwordless/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-git-github/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-install-ansible/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-install-archlinux-wsl2/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-install-docker/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-install-nodejs/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-mengubah-hostname-linux/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-ssh-socks5-tunnel/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/articles/posts/tutorial-vagrant/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/1001-cara-bicara/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/Quick-Sort-js/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/code-snippet/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/donlod-save-what-you-love/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/get-og/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/hotstar-subtitle-style/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/ip-me/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/label-encoders/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/lucy-bot-discord/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/markdown-editor/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/qr-code-generator/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/remove-list-of-words-from-given-sentences/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/remove-undefined-key-js/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/sieve-of-eratosthenes-js/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/waifu-music-bot/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/archive/yuimusic-discord-bot/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/snippets/hotstar-subtitle/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/snippets/label-encoder/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/snippets/quick-sort/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/snippets/remove-undefined-key/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/snippets/remove-word/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lrmn.is-a.dev/docs/projects/snippets/sieve-of-eratosthenes/</loc>
-         <lastmod>2023-06-13</lastmod>
+         <lastmod>2023-06-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
