@@ -21,7 +21,7 @@
         <link rel="next" href="../random-irrotational-flow/">
       
       <link rel="icon" href="../../../assets/images/favicon.ico">
-      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.17">
     
     
       
@@ -2988,7 +2988,8 @@ Licensed under the Apache License, Version 2.0.
 <p>Ragnarok is an open-source python library for solving lattice boltzmann method.</p>
 <p align="center">
     <img src="https://res.cloudinary.com/lrmn/image/upload/v1686611683/doublyperiod_shearlayer_animation_czimnc.gif" width="600" height="400" alt="Doubly-periodic shear-layer" />
-</p>
+</p>    
+
 <p>Pip install (directly from git repo):</p>
 <pre><code>$ pip install git+https://github.com/lrmn7/ragnarok.git
 </code></pre>
@@ -3011,24 +3012,26 @@ Licensed under the Apache License, Version 2.0.
 f_i \left(\mathbf{x} + \mathbf{c}_i, t+1\right) - f_i \left(\mathbf{x}, t\right) = \alpha \beta \left(f_i^{eq} - f_i\right)
 \end{equation}</p>
 <p>where $\alpha = 2$, $\beta = \left(2\nu/c_s^2 +1 \right)^{-1}$, $f_i$ is the population of discrete velocities $\mathbf{c}_i$ and $f_i^{eq}$ is the equilibrium population. The local macroscopic (i.e. density and momentum) is defined as:</p>
-\begin{equation}
+<p>\begin{equation}
 \rho = \Sigma_i f_i
-\end{equation}<p>and
+\end{equation}
+and
 \begin{equation}
 \rho \mathbf{u} = \Sigma_i \mathbf{c}_i f_i
 \end{equation}</p>
 <p>The present LBM model uses D2Q9 lattice, discretizing the velocity spaces with 9 population function for simulating 2D-dimensional flow. The associated lattice velocites $[c_x, c_y]^T$ and lattice weights $W$ are:</p>
-\begin{equation}
+<p>\begin{equation}
 \left[\begin{array}{c}
-    c_x\\c_y
-    \end{array} \right]
-    =
-    \left[
+	c_x\\c_y
+	\end{array} \right]
+	=
+	\left[
 \begin{array}{ccccccccc}
-    0 &amp; 1 &amp; 0 &amp; -1 &amp; 0 &amp; 1 &amp; -1 &amp; -1 &amp; 1\\ 
-    0 &amp; 0 &amp; 1 &amp; 0 &amp; -1 &amp; 1 &amp; 1 &amp; -1 &amp; -1\\ 
-    \end{array} \right]
-\end{equation}<p>and
+	0 &amp; 1 &amp; 0 &amp; -1 &amp; 0 &amp; 1 &amp; -1 &amp; -1 &amp; 1\\ 
+	0 &amp; 0 &amp; 1 &amp; 0 &amp; -1 &amp; 1 &amp; 1 &amp; -1 &amp; -1\\ 
+	\end{array} \right]
+\end{equation}
+and
 \begin{equation}
 W = 
 \left[
@@ -3805,14 +3808,15 @@ y = solver.x[1]</div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="initial-conditions">Initial conditions<a class="anchor-link" href="#initial-conditions">&#182;</a></h2><p>The doubly periodic shear layer (DPSL) describes the case of roll-up of two anti-parallel shear layers within a periodic square domain. The initial condition is given as:</p>
-\begin{align}
+<p>\begin{align}
 u_x &amp;= \left\{  \begin{array}{l}
 u_0 \tanh \left[\kappa \left(\frac{y}{N} - \frac{1}{4}\right) \right], y \le N/2, \\
 u_0 \tanh \left(\kappa \left(\frac{3}{4} - \frac{y}{N}\right) \right), y &gt; N/2, \\
 \end{array} \right.\\
 \\
 u_y &amp;= \delta \sin \left[ 2 \pi  \left(\frac{x}{N} + \frac{1}{4} \right)\right].
-\end{align}
+\end{align}</p>
+
 </div>
 </div>
 </div>
@@ -4292,11 +4296,15 @@ ani.save('animation.mp4')</div>
     <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.sections", "search.suggest", "search.highlight", "navigation.top"], "search": "../../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.b4d07000.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.b425cdc4.min.js"></script>
       
-        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        
+          <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        
       
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        
+          <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        
       
     
   </body>

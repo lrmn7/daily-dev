@@ -21,7 +21,7 @@
         <link rel="next" href="../ragnarok/">
       
       <link rel="icon" href="../../../assets/images/favicon.ico">
-      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.17">
     
     
       
@@ -3115,7 +3115,8 @@ Licensed under the Apache License, Version 2.0.
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><strong>Linear regression</strong></p>
 <p>Given a data set $\{y_i, x_i\}_{i=1}^n$ of $n$ statistical units, we have the following relationship:</p>
-$$ y_i = \theta_1 x_i + \theta_0 + \varepsilon_i, \qquad i=1,\ldots, n,$$<p>where:</p>
+<p>$$ y_i = \theta_1 x_i + \theta_0 + \varepsilon_i, \qquad i=1,\ldots, n,$$</p>
+<p>where:</p>
 <ul>
 <li>$y_i$ is observed value (dependent variable</li>
 <li>$x_i$ is the independent variable</li>
@@ -3498,8 +3499,10 @@ learning_rate = 0.2</div>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="model">Model<a class="anchor-link" href="#model">&#182;</a></h3>$$ \mathcal{F}(x;\ \theta): x \rightarrow y $$<p><strong>Linear 1-D model</strong>:</p>
-$$ \mathcal{F}(x;\ \theta) = w x + b = \hat{y}$$<p>where:</p>
+<h3 id="model">Model<a class="anchor-link" href="#model">&#182;</a></h3><p>$$ \mathcal{F}(x;\ \theta): x \rightarrow y $$</p>
+<p><strong>Linear 1-D model</strong>:</p>
+<p>$$ \mathcal{F}(x;\ \theta) = w x + b = \hat{y}$$</p>
+<p>where:</p>
 <ul>
 <li>$y$ is the ground truth</li>
 <li>$\hat{y}$ is the predicted output</li>
@@ -3636,7 +3639,8 @@ bias   (theta_0): 0.1633
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h3 id="loss-function">Loss function<a class="anchor-link" href="#loss-function">&#182;</a></h3><p><strong>$L^1$-norm:</strong></p>
-$$ \mathcal{L}(\hat{Y}, Y;\ \theta) = \textrm{mean} \left( \{l_1,\dots,l_N\}^\top \right), \quad l_n = \left| \hat{y}_n - y_n \right| $$<p>where:</p>
+<p>$$ \mathcal{L}(\hat{Y}, Y;\ \theta) = \textrm{mean} \left( \{l_1,\dots,l_N\}^\top \right), \quad l_n = \left| \hat{y}_n - y_n \right| $$
+where:</p>
 <ul>
 <li>$X \in \mathbb{R}^N$ is the input matrix</li>
 <li>$Y \in \mathbb{R}^N$ is the ground truth matrix</li>
@@ -3713,7 +3717,8 @@ criterion</div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h3 id="optimizer">Optimizer<a class="anchor-link" href="#optimizer">&#182;</a></h3><p><strong>Stochastic gradient descent</strong></p>
-$$ \theta^{n+1} = \theta^n - \eta \nabla \mathcal{L}(\theta^n) $$<p>where:</p>
+<p>$$ \theta^{n+1} = \theta^n - \eta \nabla \mathcal{L}(\theta^n) $$</p>
+<p>where:</p>
 <ul>
 <li>$\eta$ is the learning rate (i.e. step size)</li>
 </ul>
@@ -3793,7 +3798,8 @@ Parameter Group 0
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><a id="train"></a></p>
-<h2 id="3-train-the-model">3. Train the model<a class="anchor-link" href="#3-train-the-model">&#182;</a></h2>$$ \mathcal{F}^* = \arg \min_{\mathcal{F}}\ \mathcal{L}(\hat{Y}, Y;\ \theta)$$<p><strong>Algorithm:</strong></p>
+<h2 id="3-train-the-model">3. Train the model<a class="anchor-link" href="#3-train-the-model">&#182;</a></h2><p>$$ \mathcal{F}^* = \arg \min_{\mathcal{F}}\ \mathcal{L}(\hat{Y}, Y;\ \theta)$$</p>
+<p><strong>Algorithm:</strong></p>
 <ol>
 <li>Convert data to torch tensor: <code>torch.from_numpy(...)</code></li>
 <li>Forward pass: <code>y_hat = model(x)</code></li>
@@ -4545,11 +4551,15 @@ checkpoint</div>
     <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.sections", "search.suggest", "search.highlight", "navigation.top"], "search": "../../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.b4d07000.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.b425cdc4.min.js"></script>
       
-        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        
+          <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        
       
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        
+          <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        
       
     
   </body>
